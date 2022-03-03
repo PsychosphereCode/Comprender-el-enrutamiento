@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+div {
+    border: 5px solid black;
+    text-align: center;
+    width: 1200px;
+    margin:0 auto;
+}
+.parrafo {
+    color: blue;
+    background-color:whitesmoke;
+    margin: 10px, auto;
+    padding: 20px;
+    
+}
